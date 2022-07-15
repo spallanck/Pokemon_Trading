@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/drawable/rounded_rectangle.xml" value="0.2065" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout-land/activity_camera.xml" value="0.2364258230012826" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout-land/activity_collection.xml" value="0.2364258230012826" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout-land/activity_main.xml" value="0.221889696451475" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout-land/fragment_card.xml" value="0.2364258230012826" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_camera.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_collection.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_main.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/collection_item.xml" value="0.2496793501496366" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_card.xml" value="0.2496793501496366" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_delete.xml" value="0.4" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_rating.xml" value="0.6" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_search.xml" value="0.23505434782608695" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/list_item.xml" value="0.72" />
+        <entry key="..\:/Users/aschw/OneDrive/Documents/Classes/Current/CSCI 412/final-project-sancheb4/PokmonCardList/app/src/main/res/menu/action_buttons.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_camera.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_collection.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/collection_item.xml" value="0.1" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_card.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_delete.xml" value="0.22" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/fragment_rating.xml" value="0.22" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/layout/list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sophi/cs412/final/final-project-sancheb4/PokmonCardList/app/src/main/res/menu/menu.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/activity_camera.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/activity_collection.xml" value="0.11372847011144883" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1721311475409836" />
+        <entry key="app/src/main/res/layout/collection_item.xml" value="0.11372847011144883" />
+        <entry key="app/src/main/res/layout/fragment_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_delete.xml" value="0.11372847011144883" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.12135416666666667" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
